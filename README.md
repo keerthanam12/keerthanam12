@@ -5,7 +5,7 @@
 
 <!--<h1 align="center">Hi 👋, I'm Keerthana</h1>-->
 
-<img align="right" alt="Coding" width="400" src="">
+<img align="right" alt="Coding" width="400" src="https://github.com/keerthanam12/keerthanam12/assets/145577874/57ada38f-4e85-44f2-af56-c41484556dbd">
 
 
 - 🚀 I'm Pre-Final Year Student with a strong enthusiasm learning and personal growth. I'm Focusing on Software Engineer and Full-Stack Web Developer.
