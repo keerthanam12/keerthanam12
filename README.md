@@ -62,7 +62,7 @@
 - FULL-STACK WEB DEVELOPMENT STACKS
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,django" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,bootstrap,django" />
   </a>
 </p>
 
