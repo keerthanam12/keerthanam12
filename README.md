@@ -40,6 +40,16 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<h3 align="left">CODING PROFILES</h3>
+<div align="left">
+  <a href="https://leetcode.com/u/keerthanam_09/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+  <a href="https://www.codechef.com/users/keerthana63"><img alt="Codechef" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/keerthana0mohan"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
+</div>
+<br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <h3 align="left"><b>SKILLS</b></h3>
 
 - PROGRAMMING LANGUAGES
@@ -87,9 +97,7 @@
  </div>
  <br><br>
  
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 
 <p align="center">
   <a href="https://github.com/keeerthanam12">
@@ -109,8 +117,8 @@
   <br/>
 </a>
 
-
 ![Keerthana's Graph](https://github-readme-activity-graph.vercel.app/graph?username=keerthanam12&custom_title=%20Keerthana's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/keerthanam_09?ext=heatmap)
