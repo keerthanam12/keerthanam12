@@ -19,7 +19,7 @@
   
 - 👯 I’m looking to collaborate on OpenSource Projects.
 
-- 💬 Ask me about **Programming Language like Python and Java. Full-Stack Web Development.**
+- 💬 Ask me about **Programming Languages like Python and Java. Full-Stack Web Development, Software Development and UI/UX Designer.**
 
 - 📫 How to reach me **keerthanam0809@gmail.com**
   
