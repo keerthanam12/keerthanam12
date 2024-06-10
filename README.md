@@ -11,13 +11,13 @@
 
 - 🚀 I'm Pre-Final Year Student with a strong enthusiasm learning and personal growth. I'm Focusing on Full-Stack Web Developer, Software Developer and UI/UX Designer.
 
-- ✌️ I'm very Enjoy to do coding.
+- ✌️ I'm Very Enjoy to do Coding.
 
 - 🔭 I’m currently pursing a **B.E CSE at [Chennai Institute Of Technology](https://www.citchennai.edu.in/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Data Structure and Algorithm.**
   
-- 👯 I’m looking to collaborate on OpenSource Projects.
+- 👯 I’m looking to collaborate on **OpenSource Projects.**
 
 - 💬 Ask me about **Programming Languages like Python and Java. Full-Stack Web Development, Software Development and UI/UX Designer.**
 
