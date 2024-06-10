@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **keerthanam0809@gmail.com**
   
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17oY8oq4RrmsQf1EDCxfog2mKysFMa8pj/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1eJMITh6edmN49jVb3P8ZvBTQ5VnSSJf3/view?usp=drive_link)
 
 - ⚡ Fun fact I think I'm funny
 
@@ -62,7 +62,7 @@
 - FULL-STACK WEB DEVELOPMENT STACKS
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,bootstrap,django" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,npm,expressjs,bootstrap,django" />
   </a>
 </p>
 
@@ -76,7 +76,7 @@
 - TOOLS/PLATFORMS
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,pycharm,vscode,xd" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,xd,pycharm,vscode" />
   </a>
 </p>
 <br/>
