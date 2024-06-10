@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthanam12&label=Profile%20views&color=0e75b6&style=flat" alt="keerthanam12" /> </p> 
 
-- 🚀 I'm Pre-Final Year Student with a strong enthusiasm learning and personal growth. I'm Focusing on Full-Stack Web Developer, Software Developer and UI/UX Designer
+- 🚀 I'm Pre-Final Year Student with a strong enthusiasm learning and personal growth. I'm Focusing on Full-Stack Web Developer, Software Developer and UI/UX Designer.
 
 - ✌️ I'm very Enjoy to do coding.
 
