@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthanam12&label=Profile%20views&color=0e75b6&style=flat" alt="keerthanam12" /> </p> 
 
-- 🚀 I'm Pre-Final Year Student with a strong enthusiasm learning and personal growth. I'm Focusing on Full-Stack Web Developer, Software Developer and UI/UX Designer.
+- 🚀 I'm Pre-Final Year Student with a strong enthusiasm learning and personal growth. I'm Focusing on Software Developer Engineer, Full-Stack Web Developer and UI/UX Designer.
 
 - ✌️ I'm Very Enjoy to do Coding.
 
@@ -19,7 +19,7 @@
   
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
-- 💬 Ask me about **Programming Languages like Python and Java. Full-Stack Web Development, Software Development and UI/UX Designer.**
+- 💬 Ask me about **Programming Languages like Java and Python. Software Development, Full-Stack Web Development and UI/UX Designer.**
 
 - 📫 How to reach me **keerthanam0809@gmail.com**
   
