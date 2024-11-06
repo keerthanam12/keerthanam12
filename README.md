@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **keerthanam0809@gmail.com**
   
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Azr0xsPgDSAZ6rtelBVsuztGYVX7fCvL/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NkTXdZVflD2x8EPkyGnyY0UzZIv6_6LD/view?usp=drive_link)
 
 - ⚡ Fun fact I think I'm funny
 
