@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **keerthanam0809@gmail.com**
   
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NkTXdZVflD2x8EPkyGnyY0UzZIv6_6LD/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1dprb0UDrZvzTBbD6f0cZks2Z5I1zOK6i/view?usp=drive_link)
 
 - ⚡ Fun fact I think I'm humorous.
 
@@ -43,7 +43,6 @@
 <div align="left">
   <a href="https://leetcode.com/u/keerthanam_09/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
   <a href="https://www.codechef.com/users/keerthana63"><img alt="Codechef" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/keerthana0mohan"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
 </div>
 <br>
 
@@ -54,14 +53,14 @@
 - PROGRAMMING LANGUAGES
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c" />
+    <img src="https://skillicons.dev/icons?i=java,python,c++" />
   </a>
 </p>
 
 - FULL-STACK WEB DEVELOPMENT STACKS
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,npm,expressjs,bootstrap,django" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,npm,nextjs,expressjs,typescript,tailwindcss,bootstrap" />
   </a>
 </p>
 
@@ -75,7 +74,7 @@
 - TOOLS/PLATFORMS
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,xd,pycharm,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,xd,canva,vscode,overleaf,microsoftoffice" />
   </a>
 </p>
 <br/>
