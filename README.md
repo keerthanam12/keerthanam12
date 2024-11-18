@@ -74,7 +74,7 @@
 - TOOLS/PLATFORMS
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,xd,canva,vscode,overleaf,microsoftoffice" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,xd,vscode,canva,overleaf,microsoftoffice" />
   </a>
 </p>
 <br/>
