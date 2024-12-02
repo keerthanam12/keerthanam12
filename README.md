@@ -27,6 +27,8 @@
 
 - ⚡ Fun fact I think I'm humorous.
 
+- 🔗 See my [Portfolio](https://keerthanamportfolio.netlify.app/)
+
 
 <br>
 <h3 align="left">CONNECT WITH ME</h3>
