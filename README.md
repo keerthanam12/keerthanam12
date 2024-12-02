@@ -25,9 +25,9 @@
   
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1dprb0UDrZvzTBbD6f0cZks2Z5I1zOK6i/view?usp=drive_link)
 
-- ⚡ Fun fact I think I'm humorous.
-
 - 🔗 See my [Portfolio](https://keerthanamportfolio.netlify.app/)
+
+- ⚡ Fun fact I think I'm humorous girl.
 
 
 <br>
