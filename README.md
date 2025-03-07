@@ -19,7 +19,7 @@
   
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
-- 💬 Ask me about **Programming Languages like Java and Python, Software Development, Full-Stack Web Development and UI/UX Design.**
+- 💬 Ask me about **Programming Languages like Java, Software Development, Full-Stack Web Development and UI/UX Design.**
 
 - 📫 How to reach me **keerthanam0809@gmail.com**
   
@@ -55,28 +55,28 @@
 - PROGRAMMING LANGUAGES
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,cpp" />
+    <img src="https://skillicons.dev/icons?i=java,python" />
   </a>
 </p>
 
 - FULL-STACK WEB DEVELOPMENT STACKS
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,npm,nextjs,expressjs,typescript,tailwindcss,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,npm,nextjs,expressjs,tailwindcss" />
   </a>
 </p>
 
 - DATABASES
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,php" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   </a>
 </p>
 
 - TOOLS/PLATFORMS
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,xd,vscode,canva,overleaf,microsoftoffice" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,netlify,vercel,render,overleaf,microsoftoffice" />
   </a>
 </p>
 <br/>
@@ -112,7 +112,6 @@
 </p>
 
 <a> 
-    <a href="https://github.com/keerthanam12"><img alt="Keerthana's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=keerthanam12&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/keerthanam12"><img alt="Keerthana's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=keerthanam12&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
