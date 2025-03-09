@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Keerthana M</h1>
 <p align="center">
-  <a href="https://github.com/keerthanam12/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Aspiring+Software+Development+Engineer;Aspiring+Full-Stack+Web+Developer;Aspiring+UI/UX+Designer&center=true&width=500&height=50"></a>
+  <a href="https://github.com/keerthanam12/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Aspiring+Software+Development+Engineer;Aspiring+Full+Stack+Web+Developer;Aspiring+UI/UX+Designer&center=true&width=500&height=50"></a>
 </p>
 
 <!--<h1 align="center">Hi 👋, I'm Keerthana</h1>-->
@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthanam12&label=Profile%20views&color=0e75b6&style=flat" alt="keerthanam12" /> </p> 
 
-- 🚀 I'm Pre-Final Year Student with a strong enthusiasm learning and personal growth. I'm Focusing on Software Development Engineer, Full-Stack Web Developer and UI/UX Designer.
+- 🚀 I'm Pre-Final Year Student with a strong enthusiasm learning and personal growth. I'm Focusing on Software Development Engineer, Full Stack Web Developer and UI/UX Designer.
 
 - ✌️ I'm Very Enjoy to do Coding.
 
@@ -19,7 +19,7 @@
   
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
-- 💬 Ask me about **Programming Languages like Java, Software Development, Full-Stack Web Development and UI/UX Design.**
+- 💬 Ask me about **Programming Languages like Java, Software Development, Full Stack Web Development and UI/UX Design.**
 
 - 📫 How to reach me **keerthanam0809@gmail.com**
   
@@ -59,7 +59,7 @@
   </a>
 </p>
 
-- FULL-STACK WEB DEVELOPMENT STACKS
+- FULL STACK WEB DEVELOPMENT STACKS
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,npm,nextjs,expressjs,tailwindcss" />
