@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **keerthanam0809@gmail.com**
   
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1dprb0UDrZvzTBbD6f0cZks2Z5I1zOK6i/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mAzXufQsWi2hatVmKGmKgg71xmTcKfbA/view?usp=drive_link)
 
 - 🔗 See my [Portfolio](https://keerthanamportfolio.netlify.app/)
 
